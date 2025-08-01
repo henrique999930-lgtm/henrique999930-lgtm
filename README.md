@@ -3,7 +3,6 @@ Olá, eu sou o Carlos Henrique! 👋
 ​Minhas Habilidades Técnicas
 ​Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
-BOM & NOVO | Auto Design🎖
 | Categoria | Habilidades |
 |---|---|
 | Linguagens de Programação | Python, JavaScript, SQL |
