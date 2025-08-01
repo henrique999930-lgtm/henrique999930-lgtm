@@ -1,5 +1,5 @@
 Olá, eu sou o Carlos Henrique! 👋
-​Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por transformar dados em insights valiosos e construir soluções de software eficientes. Em busca de uma oportunidade para aplicar minhas habilidades e aprender com desafios reais.
+​Estudante de ciência da computação, apaixonado por transformar dados em insights valiosos e construir soluções de software eficientes. Em busca de uma oportunidade para aplicar minhas habilidades e aprender com desafios reais.
 ​Minhas Habilidades Técnicas
 ​Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
