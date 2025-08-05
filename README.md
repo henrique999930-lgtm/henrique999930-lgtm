@@ -11,11 +11,13 @@ Olá, eu sou o Carlos Henrique! 👋
 | Controle de Versão | Git, GitHub |
 Projetos em Destaque
 Estes são alguns dos meus projetos que mais me orgulhahttps://github.com/seu_usuario/projeto-m.
-1. [projeto de gerenciamento]
-> Uma breve descrição do que este projeto faz (ex: Análise de dados de vendas de uma loja virtual, utilizando Python).
-> Tecnologias Usadas: Python (Pandas), SQL, Power BI.
-> 🚀 [https://github.com/seu_usuario/projeto-])
-> 
+1. ### Contador de Cliques
+Um projeto web interativo que demonstra o uso de *JavaScript* para manipulação do DOM e lógica de eventos. Ao clicar no botão, o contador na tela é atualizado em tempo real, servindo como uma ótima demonstração de habilidades front-end fundamentais.
+*Tecnologias Usadas:*
+* HTML
+* CSS
+* JavaScript
+**[Ver Projeto](https://github.com/henrique999930-lgtm/contador-de-cliques-projeto)**
 2. [análise de dados]
 > Uma breve descrição do que este projeto faz (ex: Um site de portfólio pessoal construído com HTML, CSS e JavaScript).
 > Tecnologias Usadas: HTML, CSS, JavaScript.
