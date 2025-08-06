@@ -18,11 +18,14 @@ Um projeto web interativo que demonstra o uso de *JavaScript* para manipulação
 * CSS
 * JavaScript
 **[Ver Projeto](https://github.com/henrique999930-lgtm/contador-de-cliques-projeto)**
-2. [análise de dados]
-> Uma breve descrição do que este projeto faz (ex: Um site de portfólio pessoal construído com HTML, CSS e JavaScript).
-> Tecnologias Usadas: HTML, CSS, JavaScript.
-> 🚀 [https://github.com/seu_usuario/projeto-2])
-> 
+2.### 📊 Dashboard de Análise de Dados
+🔍 Projeto de visualização de dados construído com **Python** e **Streamlit**, permitindo a leitura e análise interativa de um arquivo `.csv`.  
+📈 Gera gráficos dinâmicos e oferece uma interface amigável para explorar os dados em tempo real, ideal para apresentações ou insights rápidos.
+**🛠 Tecnologias Usadas:**
+- 🐍 Python  
+- 📊 pandas  
+- 🌐 Streamlit  
+🔗 **[Ver Projeto no GitHub](https://github.com/henrique999930-lgtm/dashboard-analise-dados)**
 Conecte-se Comigo
 | 61 981224416 | Contato |
 |---|---|
