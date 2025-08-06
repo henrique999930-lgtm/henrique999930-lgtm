@@ -18,7 +18,7 @@ Um projeto web interativo que demonstra o uso de *JavaScript* para manipulação
 * CSS
 * JavaScript
 **[Ver Projeto](https://github.com/henrique999930-lgtm/contador-de-cliques-projeto)**                                                                                            
-2.### 📊 DASHBOARD de Análise de Dados
+2. ### 📊 Dashboard de Análise de Dados
 🔍 Projeto de visualização de dados construído com **Python** e **Streamlit**, permitindo a leitura e análise interativa de um arquivo `.csv`.  
 📈 Gera gráficos dinâmicos e oferece uma interface amigável para explorar os dados em tempo real, ideal para apresentações ou insights rápidos.
 **🛠 Tecnologias Usadas:**
