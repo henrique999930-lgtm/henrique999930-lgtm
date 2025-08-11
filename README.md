@@ -11,7 +11,7 @@
 
 | 💻 Categoria            | 🔧 Habilidades |
 |-------------------------|---------------|
-| **Linguagens**          | Python, JavaScript, SQL |
+| **Linguagens**          | Python, SQL |
 | **Análise de Dados**    | Pandas, NumPy, Matplotlib, Power BI |
 | **Bancos de Dados**     | MySQL, PostgreSQL, MongoDB |
 | **Big Data & Cloud**    | PySpark, Hadoop, AWS, GCP, Azure |
