@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNpdjF5cG5mNmlxa3V2N2N6MHNlNG1kMnFiaHhjaXJldG43b3YxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2Nf4s62425s4/giphy.gif" alt="Banner Animado de Dados"/>
+  <img src="https://raw.githubusercontent.com/devsuperior/devsuperior-assets/main/banners/banner-data-science.png" alt="Banner de Engenharia de Dados"/>
 </p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+eu+sou+o+Carlos+Henrique+%F0%9F%91%8B;Transformo+dados+em+vantagem+competitiva." alt="Typing SVG" /></a>
+  <h1>Olá, eu sou o Carlos Henrique 👋</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Transformo+dados+em+vantagem+competitiva." alt="Typing SVG" /></a>
 </div>
 
 <p align="center">Engenheiro de Dados especialista em arquitetar e otimizar ecossistemas de dados de ponta a ponta na nuvem (AWS/GCP), construindo a base para decisões estratégicas e o crescimento do negócio.</p>
@@ -17,61 +18,31 @@
 
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique999930-lgtm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique999930-lgtm&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique999930-lgtm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique999930-lgtm&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
 ## 🚀 Arsenal Técnico
 
-<table align="center">
-  <tr align="center">
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="icon" width="65" height="65" />
-      <br>GCP
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>PySpark
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>Power BI
-    </td>
-     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Streamlit
-    </td>
-     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+#### Cloud & Big Data
+<div align="center">
+  <img align="center" alt="AWS" height="30" width="auto" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" alt="GCP" height="30" width="auto" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img align="center" alt="PySpark" height="30" width="auto" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+  <img align="center" alt="Docker" height="30" width="auto" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+
+#### Linguagens & Ferramentas
+<div align="center">
+  <img align="center" alt="Python" height="30" width="auto" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Pandas" height="30" width="auto" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="SQL" height="30" width="auto" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
+  <img align="center" alt="PowerBI" height="30" width="auto" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white">
+  <img align="center" alt="Streamlit" height="30" width="auto" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img align="center" alt="Git" height="30" width="auto" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
 <br>
 
 ## 💻 Meus Principais Projetos
-*(A seção de projetos permanece a mesma, abaixo da tabela)*
-
-### 📈 [Pipeline de Dados ETL e Dashboard de Vendas](https://github.com/henrique999930-lgtm/pipeline-etl-vendas)
-<p>Pipeline completo construído com Python e PostgreSQL, orquestrando a extração, transformação e carga de dados de vendas, culminando em um dashboard interativo em Streamlit para análise de KPIs e apoio à decisão.</p>
-
-### 📊 [Sales Insight – Dashboard Interativo](https://github.com/henrique999930-lgtm/sales-insight)
-<p>Aplicação interativa desenvolvida com Streamlit e Pandas para análise de performance de vendas e tendências comerciais em tempo real. Permite a visualização dinâmica de métricas e a exploração de dados de forma intuitiva.</p>
