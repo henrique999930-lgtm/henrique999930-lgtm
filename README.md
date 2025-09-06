@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/uG9XJ2v.png" alt="Banner Carlos Henrique - Engenheiro de Dados"/>
+  <img src="https://i.imgur.com/bW34w0F.png" alt="Banner Carlos Henrique - Engenheiro de Dados"/>
 </p>
 
 <table>
