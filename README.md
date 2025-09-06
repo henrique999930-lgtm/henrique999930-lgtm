@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/bW34w0F.png" alt="Banner Carlos Henrique - Engenheiro de Dados"/>
+  <img src="https://i.imgur.com/YgY7e5a.png" alt="Banner Carlos Henrique - Engenheiro de Dados"/>
 </p>
 
 <table>
@@ -49,24 +49,6 @@
 <br>
 
 ## 💻 Meus Principais Projetos
-*(A seção de projetos permanece a mesma, abaixo da tabela)*
 
 ### 📈 [Pipeline de Dados ETL e Dashboard de Vendas](https://github.com/henrique999930-lgtm/pipeline-etl-vendas)
-<p>Pipeline completo construído com Python e PostgreSQL, orquestrando a extração, transformação e carga de dados de vendas, culminando em um dashboard interativo em Streamlit para análise de KPIs e apoio à decisão.</p>
-<strong>Tecnologias utilizadas:</strong>
-<div>
-  <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Streamlit" height="30" width="40" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-</div>
-
-<br>
-
-### 📊 [Sales Insight – Dashboard Interativo](https://github.com/henrique999930-lgtm/sales-insight)
-<p>Aplicação interativa desenvolvida com Streamlit e Pandas para análise de performance de vendas e tendências comerciais em tempo real. Permite a visualização dinâmica de métricas e a exploração de dados de forma intuitiva.</p>
-<strong>Tecnologias utilizadas:</strong>
-<div>
-  <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img align="center" alt="Streamlit" height="30" width="40" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-</div>
+<p>Pipeline completo construído com Python e PostgreSQL, or
