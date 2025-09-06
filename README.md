@@ -1,74 +1,57 @@
 <div align="center">
   <h1>Olá, eu sou o Carlos Henrique 👋</h1>
-  <p>
-    <strong>Engenheiro de Dados</strong> apaixonado por transformar dados brutos em decisões estratégicas e criar soluções escaláveis que geram valor real.<br>
-    Experiência prática com pipelines eficientes, automação de ETL, integração de múltiplas fontes e dashboards interativos.
-  </p>
-  <a href="https://www.linkedin.com/in/carlos-henrique-2a0008378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:henrique999930@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <h3>Transformo grandes volumes de dados em inteligência de negócio e vantagem competitiva.</h3>
+  <p>Engenheiro de Dados especialista em arquitetar e otimizar ecossistemas de dados de ponta a ponta na nuvem (AWS/GCP), construindo a base para decisões estratégicas e o crescimento do negócio.</p>
 </div>
-
----
-
-### 💻 Habilidades Técnicas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <a href="https://linkedin.com/in/carlos-henrique-2a0008378" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:henrique999930@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
----
+<br>
 
-### 🚀 Meus Principais Projetos
+## 🚀 Arsenal Técnico
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Pipeline de Dados ETL e Dashboard de Vendas</h3>
-      <p>Pipeline de ETL completo que extrai dados de vendas de arquivos CSV, os transforma com Python/Pandas e carrega em um Data Warehouse PostgreSQL (Star Schema). O resultado é um dashboard interativo em Streamlit que apresenta métricas e análises visuais.</p>
-      <p><strong>Tecnologias:</strong> Python, Pandas, Streamlit, SQL, PostgreSQL.</p>
-      <a href="https://github.com/henrique999930-lgtm/pipeline-etl-vendas"><strong>Ver no GitHub &rarr;</strong></a>
-    </td>
-    <td width="50%">
-      <h3>Sales Insight – Dashboard de Vendas Interativo</h3>
-      <p>Dashboard desenvolvido com Python e Streamlit para análise de performance de vendas. O projeto integra múltiplas fontes de dados, permitindo a visualização de KPIs e tendências comerciais em tempo real.</p>
-      <p><strong>Tecnologias:</strong> Python, Pandas, Streamlit, Power BI.</p>
-      <a href="https://github.com/henrique999930-lgtm/sales-insight"><strong>Ver no GitHub &rarr;</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Pipeline ETL para Integração de Dados</h3>
-      <p>Pipeline automatizado para extração, transformação e carga de dados de múltiplas fontes. O projeto foi projetado para alta performance e escalabilidade, integrando com serviços da AWS para armazenamento e análise.</p>
-      <p><strong>Tecnologias:</strong> Python, PySpark, AWS, SQL.</p>
-      <a href="https://github.com/henrique999930-lgtm/Pipeline-etl"><strong>Ver no GitHub &rarr;</strong></a>
-    </td>
-    <td width="50%">
-      <h3>Dashboard de Análise de Dados</h3>
-      <p>Aplicação interativa para leitura e análise de arquivos `.csv` com geração automática de gráficos. Ideal para apresentações e insights rápidos, com interface intuitiva e personalizável.</p>
-      <p><strong>Tecnologias:</strong> Python, Pandas, Streamlit.</p>
-      <a href="https://github.com/henrique999930-lgtm/Dashboard-analise-dados"><strong>Ver no GitHub &rarr;</strong></a>
-    </td>
-  </tr>
-</table>
+#### Cloud & Big Data
+<div style="display: inline_block"><br>
+  <img align="center" alt="AWS" height="30" width="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" alt="GCP" height="30" width="40" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img align="center" alt="PySpark" height="30" width="40" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+  <img align="center" alt="Docker" height="30" width="40" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 
----
+#### Linguagens & Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="SQL" height="30" width="40" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="PowerBI" height="30" width="40" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white">
+  <img align="center" alt="Streamlit" height="30" width="40" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img align="center" alt="Git" height="30" width="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
-### 🎓 Cursos e Certificações
+<br>
 
-- **Formação em SQL** – 60h
-- **Formação em Python** – 80h
-- **Inteligência Artificial** – 50h
-- **Engenharia de Dados na AWS** – 40h
-- **Machine Learning Avançado** – 60h
+## 💻 Meus Principais Projetos
+
+### 📈 [Pipeline de Dados ETL e Dashboard de Vendas](https://github.com/henrique999930-lgtm/pipeline-etl-vendas)
+<p>Pipeline completo construído com Python e PostgreSQL, orquestrando a extração, transformação e carga de dados de vendas, culminando em um dashboard interativo em Streamlit para análise de KPIs e apoio à decisão.</p>
+<strong>Tecnologias utilizadas:</strong>
+<div>
+  <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="Streamlit" height="30" width="40" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</div>
+
+<br>
+
+### 📊 [Sales Insight – Dashboard Interativo](https://github.com/henrique999930-lgtm/sales-insight)
+<p>Aplicação interativa desenvolvida com Streamlit e Pandas para análise de performance de vendas e tendências comerciais em tempo real. Permite a visualização dinâmica de métricas e a exploração de dados de forma intuitiva.</p>
+<strong>Tecnologias utilizadas:</strong>
+<div>
+  <img align="center" alt="Python" height="30" width="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="Streamlit" height="30" width="40" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</div>
