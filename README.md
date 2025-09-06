@@ -1,47 +1,49 @@
 <p align="center">
-  <img src="./banner.svg" alt="Carlos Henrique — Engenheiro de Dados" width="100%" />
-</p>
-
-<p align="center">
-  <strong>Olá, eu sou o Carlos Henrique 👋</strong><br/>
-  Engenheiro de Dados — Arquitetando e otimizando ecossistemas de dados ponta a ponta na nuvem (AWS / GCP).
+  <img src="https://raw.githubusercontent.com/devsuperior/devsuperior-assets/main/banners/banner-data-science.png" alt="Banner de Engenharia de Dados"/>
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/carlos-henrique-2a0008378" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:henrique999930@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <h1>Olá, eu sou o Carlos Henrique 👋</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Transformo+dados+em+vantagem+competitiva." alt="Typing SVG" /></a>
+</div>
+
+<p align="center">Engenheiro de Dados especialista em arquitetar e otimizar ecossistemas de dados de ponta a ponta na nuvem (AWS/GCP), construindo a base para decisões estratégicas e o crescimento do negócio.</p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/carlos-henrique-2a0008378" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:henrique999930@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
+
+<div align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique999930-lgtm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique999930-lgtm&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
-<br/>
+## 🚀 Arsenal Técnico
 
-## 🚀 Arsenal Técnico (resumido)
-<table align="center">
-  <tr align="center">
-    <td width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/><br>AWS</td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="GCP" width="65" height="65"/><br>GCP</td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/><br>Docker</td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/><br>Python</td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="PySpark" width="65" height="65"/><br>PySpark</td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="SQL" width="65" height="65"/><br>SQL</td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="Power BI" width="65" height="65"/><br>Power BI</td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Streamlit" width="65" height="65"/><br>Streamlit</td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65"/><br>Git</td>
-  </tr>
-</table>
+<div align="center">
+  <img align="center" alt="AWS" height="30" width="auto" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" alt="GCP" height="30" width="auto" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img align="center" alt="PySpark" height="30" width="auto" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white">
+  <img align="center" alt="Docker" height="30" width="auto" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Python" height="30" width="auto" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Pandas" height="30" width="auto" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="SQL" height="30" width="auto" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
+  <img align="center" alt="PowerBI" height="30" width="auto" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white">
+  <img align="center" alt="Streamlit" height="30" width="auto" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img align="center" alt="Git" height="30" width="auto" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
----
+<br>
 
 ## 💻 Meus Principais Projetos
 
 ### 📈 [Pipeline de Dados ETL e Dashboard de Vendas](https://github.com/henrique999930-lgtm/pipeline-etl-vendas)
-Pipeline completo com Python e PostgreSQL, orquestração de ETL e dashboard em Streamlit para análise de KPIs.
+<p>Pipeline completo construído com Python e PostgreSQL, orquestrando a extração, transformação e carga de dados de vendas, culminando em um dashboard interativo em Streamlit para análise de KPIs e apoio à decisão.</p>
 
 ### 📊 [Sales Insight – Dashboard Interativo](https://github.com/henrique999930-lgtm/sales-insight)
-Aplicação com Streamlit e Pandas para análise de performance de vendas — KPIs, filtros dinâmicos e visualizações interativas.
-
-### 🧾 [Decksboard – Dashboard de Vendas](https://github.com/henrique999930-lgtm/decksboard)
-Dashboard focado em métricas comerciais e visualização de tendências para tomada de decisão.
+<p>Aplicação interativa desenvolvida com Streamlit e Pandas para análise de performance de vendas e tendências comerciais em tempo real. Permite a visualização dinâmica de métricas e a exploração de dados de forma intuitiva.</p>
