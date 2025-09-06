@@ -1,7 +1,14 @@
 <div align="center">
   <h1>Olá, eu sou o Carlos Henrique 👋</h1>
   <h3>Transformo grandes volumes de dados em inteligência de negócio e vantagem competitiva.</h3>
-  <p>Engenheiro de Dados especialista em arquitetar e otimizar ecossistemas de dados de ponta a ponta na nuvem (AWS/GCP), construindo a base para decisões estratégicas e o crescimento do negócio.</p>
+  <p>Engenheiro de Dados especialista em arquitetar e otimizar ecossistemas de dados de ponta a ponta na nuvem (AWS/GCP).</p>
+</div>
+
+<div align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique999930-lgtm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique999930-lgtm&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 <div align="center">
