@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./banner.svg" alt="Carlos Henrique — Engenheiro de Dados" width="100%" />
-</p>
-
-<p align="center">
   <strong>Olá, eu sou o Carlos Henrique 👋</strong><br/>
   Engenheiro de Dados — Arquitetando e otimizando ecossistemas de dados ponta a ponta na nuvem (AWS / GCP).
 </p>
