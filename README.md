@@ -1,7 +1,9 @@
+<!-- Banner Estático e Confiável -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devsuperior/devsuperior-assets/main/banners/banner-data-science.png" alt="Banner de Engenharia de Dados"/>
 </p>
 
+<!-- Apresentação Híbrida (Estático + Animado) -->
 <div align="center">
   <h1>Olá, eu sou o Carlos Henrique 👋</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Transformo+dados+em+vantagem+competitiva." alt="Typing SVG" /></a>
@@ -9,6 +11,7 @@
 
 <p align="center">Engenheiro de Dados especialista em arquitetar e otimizar ecossistemas de dados de ponta a ponta na nuvem (AWS/GCP), construindo a base para decisões estratégicas e o crescimento do negócio.</p>
 
+<!-- Links Sociais -->
 <div align="center">
   <a href="https://linkedin.com/in/carlos-henrique-2a0008378" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:henrique999930@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,6 +19,7 @@
 
 <br>
 
+<!-- Stats Dinâmicos do GitHub -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique999930-lgtm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -33,7 +37,7 @@
   <img align="center" alt="Docker" height="30" width="auto" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
-#### Linguagens & Ferramentas
+#### Linguagens & Ferramentas de Dados
 <div align="center">
   <img align="center" alt="Python" height="30" width="auto" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Pandas" height="30" width="auto" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -46,3 +50,9 @@
 <br>
 
 ## 💻 Meus Principais Projetos
+
+### 📈 [Pipeline de Dados ETL e Dashboard de Vendas](https://github.com/henrique999930-lgtm/pipeline-etl-vendas)
+<p>Pipeline completo construído com Python e PostgreSQL, orquestrando a extração, transformação e carga de dados de vendas, culminando em um dashboard interativo em Streamlit para análise de KPIs e apoio à decisão.</p>
+
+### 📊 [Sales Insight – Dashboard Interativo](https://github.com/henrique999930-lgtm/sales-insight)
+<p>Aplicação interativa desenvolvida com Streamlit e Pandas para análise de performance de vendas e tendências comerciais em tempo real. Permite a visualização dinâmica de métricas e a exploração de dados de forma intuitiva.</p>
