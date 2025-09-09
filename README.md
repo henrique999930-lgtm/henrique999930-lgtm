@@ -15,19 +15,20 @@
 ---
 
 ## 🚀 Arsenal Técnico
-<table align="center">
-  <tr align="center">
-    <td width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/><br><strong>AWS</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="GCP" width="65" height="65"/><br><strong>GCP</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/><br><strong>Docker</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/><br><strong>Python</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="PySpark" width="65" height="65"/><br><strong>PySpark</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="SQL" width="65" height="65"/><br><strong>SQL</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="Power BI" width="65" height="65"/><br><strong>Power BI</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Streamlit" width="65" height="65"/><br><strong>Streamlit</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65"/><br><strong>Git</strong></td>
-  </tr>
-</table>
+
+<div align="center">
+
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)  
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)  
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+</div>
 
 ---
 
