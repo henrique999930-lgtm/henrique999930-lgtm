@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devsuperior/devsuperior-assets/main/banners/banner-data-science.png" alt="Banner de Engenharia de Dados" width="100%"/>
+  <img src="https://raw.githubusercontent.com/devsuperior/devsuperior-assets/main/banners/banner-data-science.png" alt="Banner de Engenharia de Dados"/>
 </p>
 
 <div align="center">
   <h1>Olá, eu sou o Carlos Henrique 👋</h1>
-  <h3>Transformo grandes volumes de dados em inteligência de negócio e vantagem competitiva.</h3>
-  <p>Engenheiro de Dados especialista em arquitetar e otimizar ecossistemas de dados de ponta a ponta na nuvem (AWS/GCP), construindo a base para decisões estratégicas e o crescimento do negócio.</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Engenheiro+de+Dados+e+Arquiteto+de+Solu%C3%A7%C3%B5es;Transformo+dados+em+vantagem+competitiva." alt="Typing SVG" /></a>
 </div>
+
+<p align="center">Especialista em arquitetar e otimizar ecossistemas de dados de ponta a ponta na nuvem (AWS/GCP), construindo a base para decisões estratégicas e o crescimento do negócio.</p>
 
 <div align="center">
   <a href="https://linkedin.com/in/carlos-henrique-2a0008378" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -28,78 +29,46 @@
   <table align="center">
     <tr align="center">
       <td align="center" width="96">
-        <a href="#-arsenal-técnico">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-        </a>
-        <br>Python
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+        <br><strong>Python</strong>
       </td>
       <td align="center" width="96">
-        <a href="#-arsenal-técnico">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
-        </a>
-        <br>AWS
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+        <br><strong>AWS</strong>
       </td>
       <td align="center" width="96">
-        <a href="#-arsenal-técnico">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" />
-        </a>
-        <br>GCP
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP" />
+        <br><strong>GCP</strong>
       </td>
       <td align="center" width="96">
-        <a href="#-arsenal-técnico">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40" alt="Spark" />
-        </a>
-        <br>PySpark
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40" alt="Spark" />
+        <br><strong>PySpark</strong>
       </td>
       <td align="center" width="96">
-        <a href="#-arsenal-técnico">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Airflow" />
-        </a>
-        <br>Airflow
-      </td>
-      <td align="center" width="96">
-        <a href="#-arsenal-técnico">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-        </a>
-        <br>SQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Airflow" />
+        <br><strong>Airflow</strong>
       </td>
     </tr>
     <tr align="center">
       <td align="center" width="96">
-        <a href="#-arsenal-técnico">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-        </a>
-        <br>Docker
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+        <br><strong>SQL</strong>
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+        <br><strong>Docker</strong>
       </td>
        <td align="center" width="96">
-        <a href="#-arsenal-técnico">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="40" height="40" alt="Power BI" />
-        </a>
-        <br>Power BI
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="40" height="40" alt="Power BI" />
+        <br><strong>Power BI</strong>
       </td>
       <td align="center" width="96">
-        <a href="#-arsenal-técnico">
-          <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40" alt="Streamlit" />
-        </a>
-        <br>Streamlit
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40" alt="Streamlit" />
+        <br><strong>Streamlit</strong>
       </td>
       <td align="center" width="96">
-        <a href="#-arsenal-técnico">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-        </a>
-        <br>Git
-      </td>
-      <td align="center" width="96">
-         <a href="#-arsenal-técnico">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-        </a>
-        <br>Pandas
-      </td>
-       <td align="center" width="96">
-        <a href="#-arsenal-técnico">
-          <img src="https://static-00.iconduck.com/assets.00/dbt-icon-2048x1784-36s5n2sr.png" width="40" height="40" alt="dbt" />
-        </a>
-        <br>dbt
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+        <br><strong>Git</strong>
       </td>
     </tr>
   </table>
