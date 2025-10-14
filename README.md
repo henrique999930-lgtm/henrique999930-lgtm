@@ -33,11 +33,11 @@
 
 ## 💻 Meus Principais Projetos
 
-### 📈 [Pipeline de Dados ETL e Dashboard de Vendas](https://github.com/henrique999930-lgtm/pipeline-etl-vendas)
-Pipeline completo com *Python e PostgreSQL, orquestração de ETL e dashboard em **Streamlit* para análise de KPIs.
+🚀 **[ANAC Data Pipeline](https://github.com/henrique999930-lgtm/anac-data-pipeline)**  
+Pipeline de dados **ELT** de ponta a ponta para análise de voos da ANAC — com ingestão automatizada, modelagem em **dbt**, armazenamento em **Data Lake AWS S3**, e visualização interativa em **Streamlit**.  
+🛠️ *Tecnologias:* Python | AWS | dbt | Streamlit | PostgreSQL  
 
-### 📊 [Sales Insight – Dashboard Interativo](https://github.com/henrique999930-lgtm/sales-insight)
-Aplicação com *Streamlit e Pandas* para análise de performance de vendas — KPIs, filtros dinâmicos e visualizações interativas.
+☁️ **[Sentiment Analysis – Twitter AWS Project](https://github.com/henrique999930-lgtm/projeto-sentimento-twitter-aws)**  
+Pipeline **ETL serverless** na **AWS** para análise de sentimentos de tweets. Processamento com **AWS Glue** e **PySpark**, armazenamento em **Data Lake S3**, e visualização de resultados com **Streamlit**.  
+🛠️ *Tecnologias:* AWS Glue | PySpark | S3 | Streamlit | API | Python
 
-### 🧾 [Decksboard – Dashboard de Vendas](https://github.com/henrique999930-lgtm/decksboard)
-Dashboard focado em *métricas comerciais* e visualização de tendências para *tomada de decisão*.
