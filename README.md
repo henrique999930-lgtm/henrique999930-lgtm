@@ -25,7 +25,7 @@
     </td>
     <td align="center" width="96">
       <a href="#gcp">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="65" height="65" />
+        <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" width="65" height="65" />
       </a>
       <br><strong>GCP</strong>
     </td>
@@ -67,7 +67,7 @@
     </td>
     <td align="center" width="96">
       <a href="#git">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+        <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="65" height="65" />
       </a>
       <br><strong>Git</strong>
     </td>
