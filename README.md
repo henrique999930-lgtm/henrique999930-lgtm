@@ -27,8 +27,13 @@
     <td width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="PySpark" width="65" height="65"/><br><strong>PySpark</strong></td>
     <td width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="SQL" width="65" height="65"/><br><strong>SQL</strong></td>
     <td width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="Power BI" width="65" height="65"/><br><strong>Power BI</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Streamlit" width="65" height="65"/><br><strong>Streamlit</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65"/><br><strong>Git</strong></td>
+    </td>
+    <td align="center" width="96">
+      <a href="#git">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+      </a>
+      <br><strong>Git</strong>
+    </td>
   </tr>
 </table>
 
