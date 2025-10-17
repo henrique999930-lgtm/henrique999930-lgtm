@@ -16,16 +16,61 @@
 
 ## 🚀 Arsenal Técnico
 <table align="center">
-  <tr align="center">
-    <td width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/><br><strong>AWS</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="GCP" width="65" height="65"/><br><strong>GCP</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/><br><strong>Docker</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/><br><strong>Python</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="PySpark" width="65" height="65"/><br><strong>PySpark</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="SQL" width="65" height="65"/><br><strong>SQL</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="Power BI" width="65" height="65"/><br><strong>Power BI</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Streamlit" width="65" height="65"/><br><strong>Streamlit</strong></td>
-    <td width="96"><img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65"/><br><strong>Git</strong></td>
+  <tr>
+    <td align="center" width="96">
+      <a href="#aws">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      </a>
+      <br><strong>AWS</strong>
+    </td>
+    <td align="center" width="96">
+      <a href="#gcp">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="65" height="65" />
+      </a>
+      <br><strong>GCP</strong>
+    </td>
+    <td align="center" width="96">
+      <a href="#docker">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      </a>
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="96">
+      <a href="#python">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      </a>
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="96">
+      <a href="#pyspark">
+        <img src="https://techstack-generator.vercel.app/spark-icon.svg" alt="PySpark" width="65" height="65" />
+      </a>
+      <br><strong>PySpark</strong>
+    </td>
+    <td align="center" width="96">
+      <a href="#sql">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+      </a>
+      <br><strong>SQL</strong>
+    </td>
+    <td align="center" width="96">
+      <a href="#powerbi">
+        <img src="https://techstack-generator.vercel.app/powerbi-icon.svg" alt="Power BI" width="65" height="65" />
+      </a>
+      <br><strong>Power BI</strong>
+    </td>
+    <td align="center" width="96">
+      <a href="#streamlit">
+        <img src="https://techstack-generator.vercel.app/streamlit-icon.svg" alt="Streamlit" width="65" height="65" />
+      </a>
+      <br><strong>Streamlit</strong>
+    </td>
+    <td align="center" width="96">
+      <a href="#git">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+      </a>
+      <br><strong>Git</strong>
+    </td>
   </tr>
 </table>
 
