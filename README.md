@@ -54,16 +54,27 @@
 ## ⚙️ Arsenal Técnico — Futurista (Neon)
 <p align="center">Ilustração estilizada das ferramentas — SVGs hospedados no repositório para máxima estabilidade</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/henrique999930-lgtm/henrique999930-lgtm/main/assets/neon-circle.svg" width="56" alt="aws" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/henrique999930-lgtm/henrique999930-lgtm/main/assets/neon-circle.svg" width="56" alt="gcp" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/henrique999930-lgtm/henrique999930-lgtm/main/assets/neon-circle.svg" width="56" alt="docker" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/henrique999930-lgtm/henrique999930-lgtm/main/assets/neon-circle.svg" width="56" alt="python" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/henrique999930-lgtm/henrique999930-lgtm/main/assets/neon-circle.svg" width="56" alt="pyspark" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/henrique999930-lgtm/henrique999930-lgtm/main/assets/neon-circle.svg" width="56" alt="sql" style="margin:6px"/>
-  <img src="https://raw.githubusercontent.com/henrique999930-lgtm/henrique999930-lgtm/main/assets/neon-circle.svg" width="56" alt="git" style="margin:6px"/>
-</p>
-
+<table align="center">
+  <tr align="center">
+    <td width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/><br><strong>AWS</strong></td>
+    </td>
+    <td align="center" width="96">
+      <a href="#gcp">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="65" height="65" />
+    <td width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/><br><strong>Docker</strong></td>
+    <td width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/><br><strong>Python</strong></td>
+    <td width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="PySpark" width="65" height="65"/><br><strong>PySpark</strong></td>
+    <td width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="SQL" width="65" height="65"/><br><strong>SQL</strong></td>
+    <td width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="Power BI" width="65" height="65"/><br><strong>Power BI</strong></td>
+    </td>
+    <td align="center" width="96">
+      <a href="#git">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+      </a>
+      <br><strong>Git</strong>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 💼 Projetos em Destaque — Painel Interativo
