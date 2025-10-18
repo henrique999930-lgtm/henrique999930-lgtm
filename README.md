@@ -1,8 +1,3 @@
-<!-- ==========================
-   CARLOS HENRIQUE — README
-   Futurista • Neon • Estável
-   ========================== -->
-
 <p align="center">
   <img alt="neon-divider" src="https://raw.githubusercontent.com/henrique999930-lgtm/henrique999930-lgtm/main/assets/neon-divider.svg" style="max-width:100%;height:56px" />
 </p>
@@ -24,33 +19,28 @@
 
 ---
 
-## 🔮 Painel Futurista — visão geral
+## 🔮 Painel Futurista — Visão Geral
 
 <table width="100%" cellpadding="8">
 <tr>
 <td valign="top" width="49%">
 
-### 📊 Painel (Estatísticas)
+### 📊 Estatísticas GitHub
 <p align="center">
-  <!-- GitHub Readme Stats (com count_private opcional) -->
   <img src="https://github-readme-stats.vercel.app/api?username=henrique999930-lgtm&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique999930-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 </td>
-
 <td valign="top" width="2%"></td>
-
 <td valign="top" width="49%">
 
 ### 🔥 Atividade & Conquistas
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=henrique999930-lgtm&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=henrique999930-lgtm&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
@@ -61,7 +51,7 @@
 
 ---
 
-## ⚙️ Arsenal Técnico — Futurista (neon)
+## ⚙️ Arsenal Técnico — Futurista (Neon)
 <p align="center">Ilustração estilizada das ferramentas — SVGs hospedados no repositório para máxima estabilidade</p>
 
 <p align="center">
@@ -94,28 +84,6 @@
   <img src="https://img.shields.io/badge/Security-Snyk-ff7b7b?style=for-the-badge&logo=snyk&logoColor=white" />
   <img src="https://img.shields.io/badge/Monitoring-Prometheus-ffb86b?style=for-the-badge&logo=prometheus&logoColor=black" />
 </p>
-
----
-
-## ✨ AI Console — Status & Último Deploy
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Último%20commit-automatic-blueviolet?style=for-the-badge" alt="Last Commit" />
-  <img src="https://img.shields.io/badge/Docs-Atualizado-brightgreen?style=for-the-badge" alt="Docs" />
-  <img src="https://komarev.com/ghpvc/?username=henrique999930-lgtm&style=flat-square&color=8a2be2" alt="profile views" />
-</p>
-
----
-
-## 🛠️ Automação do README (workflow)
-Crie o arquivo `.github/workflows/update-readme.yml` com o conteúdo disponível mais abaixo (é o mesmo workflow seguro que te enviei anteriormente) — ele mantém o README “vivo” com commits diários opcionais.
-
----
-
-## 🎯 Observações finais (como manter 100% estável)
-1. Faça commit dos arquivos em `/assets/` (eu te passo o conteúdo abaixo). Isso elimina dependência de serviços externos.  
-2. Mantive `github-readme-stats` e `activity-graph` (que atualizam automaticamente). Se quiser, posso substituí-los por imagens pré-renderizadas hospedadas no repo — mais estável ainda (me avise).  
-3. Para adicionar brilho extra: posso gerar SVGs personalizados com seu avatar e nomes das ferramentas — quer que eu faça isso?
 
 ---
 
