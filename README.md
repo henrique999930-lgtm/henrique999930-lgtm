@@ -19,7 +19,7 @@
 
 ---
 
-## 🔮 Painel Futurista — Visão Geral
+## 🔮 Visão Geral
 
 <table width="100%" cellpadding="8">
 <tr>
@@ -51,7 +51,7 @@
 
 ---
 
-## ⚙️ Arsenal Técnico — Futurista (Neon)
+## ⚙️ Arsenal Técnico 
 <p align="center">Ilustração estilizada das ferramentas — SVGs hospedados no repositório para máxima estabilidade</p>
 
 <table align="center">
@@ -77,7 +77,7 @@
 </table>
 ---
 
-## 💼 Projetos em Destaque — Painel Interativo
+## 💼 Projetos em Destaque 
 
 - 🔷 **[ANAC Data Pipeline](https://github.com/henrique999930-lgtm/anac-data-pipeline)** — ELT com dbt, S3 Data Lake, dashboards Streamlit.  
   `Tech:` Python · dbt · AWS Glue · S3 · Streamlit
